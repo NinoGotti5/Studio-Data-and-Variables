@@ -40,8 +40,7 @@ console.log('\n');
 console.log(divider);
 console.log('> FUEL DATA');
 console.log(divider);
-console.log('* Fuel temp celsius: ' + fuelTempCelsius);
-console.log('* Fuel level: ' + fuelLevel + '%');
+console.log('* Fuel temp celsius: ' + fuelTempCelsius + '\n* Fuel level: ' + fuelLevel + '%');
 console.log('\n');
 console.log(divider);
 
